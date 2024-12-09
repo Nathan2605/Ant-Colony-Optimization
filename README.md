@@ -18,9 +18,9 @@ The ACO algorithm works through the following stages:
 4. **Evaporation**: Pheromones evaporate over time to avoid stagnation and encourage exploration of new paths. ⏳
 5. **Iteration**: The algorithm runs for multiple iterations, continually refining the best solution. 🔄
 
-The TSP problem is solved by optimizing the pheromone distribution to guide ants towards shorter tours. 🏆
+The TSP problem is solved by optimizing the pheromone distribution to guide ants towards shorter tours. 🏆  
 
-## Requirements 🖥️
+## Requirements 🖥️  
 
 To run the code, you'll need Python 3.x and the following libraries:
 - `numpy`
